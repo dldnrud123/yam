@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "562185160209",
+    "firebase_url": "https://mymeal-193807.firebaseio.com",
+    "project_id": "mymeal-193807",
+    "storage_bucket": "mymeal-193807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562185160209:android:0abe1734ef34307b",
+        "android_client_info": {
+          "package_name": "com.example.bruce.meal_test01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562185160209-dtvo76771vcbdjpcpbp6q9chirmv2mls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYrZ07DrG2e2YiAZnPkYAsTXPHKQ6w9aA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562185160209:android:c3772a60ed968a1d",
+        "android_client_info": {
+          "package_name": "com.meals.bruce.meal_test01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562185160209-dtvo76771vcbdjpcpbp6q9chirmv2mls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYrZ07DrG2e2YiAZnPkYAsTXPHKQ6w9aA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
