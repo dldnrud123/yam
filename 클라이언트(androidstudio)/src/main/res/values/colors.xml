@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#f8bbd0</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="navigationBar">#fce4ec</color>
+    <color name="HeartAtivity">#ff4081</color>
+    <color name="HeartDefault">#e0e0e0</color>
+    <color name="brown">#795548</color>
+    <!--<color name="colorPrimaryDark">#ff4081</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="navigationBar">#ffadc5</color>-->
+
+</resources>

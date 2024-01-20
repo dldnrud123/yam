@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YAM</string>
+    <string name="preference_file_key1">temp_file1</string>
+    <string name="preference_file_key2">temp_file2</string>
+    <string name="preference_file_key3">temp_file3</string>
+    <string name="client_key">temp_file4</string>
+    <string name="notification_list">temp_file5</string>
+</resources>

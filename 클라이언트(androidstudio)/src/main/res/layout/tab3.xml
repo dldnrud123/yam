@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:layout_marginBottom="5dp">
+            <TextView
+                android:textColor="@color/brown"
+                android:textStyle="bold"
+
+                android:gravity="center"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:text="TIME"
+                />
+            <LinearLayout
+                android:layout_width="0.001dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/HeartDefault"></LinearLayout>
+
+            <TextView
+                android:textStyle="bold"
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:textColor="@color/brown"
+                android:text="평점"
+                android:textSize="16dp"
+                android:gravity="center"
+                android:layout_marginBottom="5dp"/>
+            <LinearLayout
+                android:layout_width="0.001dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:background="@color/HeartDefault"></LinearLayout>
+            <TextView
+                android:textColor="@color/brown"
+                android:text="한줄평"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="#fff8e1"
+        >
+        <TextView
+            android:textColor="@color/brown"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:text="** 식사 맛있게 하셨나요? 식사평을 남겨주세요 :D **"
+            />
+    </LinearLayout>
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_weight="1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="280dp"-->
+        <!--android:layout_height="0.3dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:background="@color/HeartAtivity">-->
+
+    <!--</LinearLayout>-->
+
+    <LinearLayout
+        android:elevation="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorAccent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="8"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorAccent">
+
+                <ImageButton xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/allview"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="8dp"
+                    app:srcCompat="@drawable/all_icon"
+                    android:background="@color/colorAccent"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorAccent">
+
+                <ImageButton xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/bfview"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/morning"
+                    android:background="@color/colorAccent"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorAccent">
+
+                <ImageButton xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/lcview"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/sun"
+                    android:background="@color/colorAccent"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/colorAccent">
+
+                <ImageButton xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/dnview"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/night"
+                    android:background="@color/colorAccent"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="end"
+                android:background="@color/HeartDefault"
+                android:gravity="center">
+
+                <ImageButton xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/write"
+                    android:background="@color/HeartDefault"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/create_icon" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

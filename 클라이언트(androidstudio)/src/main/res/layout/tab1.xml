@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:text="현재날씨"
+        android:textColor="@color/brown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:gravity="bottom"
+        android:textSize="20dp"
+        android:visibility="visible" />
+    <ImageView
+        android:background="@drawable/circle"
+        android:id="@+id/weatherIcon"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="100dp">
+    </ImageView>
+
+    <TextView
+        android:textStyle="bold"
+        android:id="@+id/weather"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:visibility="visible" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="@color/HeartDefault"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="2dp">
+    </LinearLayout>
+    <TextView
+        android:textColor="#9fa8da"
+        android:textStyle="bold"
+        android:id="@+id/time1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textSize="20dp"
+        android:visibility="visible" />
+
+    <TextView
+        android:textColor="#ef9a9a"
+        android:textStyle="bold"
+        android:id="@+id/time2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_weight="1"
+        android:gravity="top|center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textSize="20dp"
+        android:visibility="visible" />
+
+
+</LinearLayout>
+
