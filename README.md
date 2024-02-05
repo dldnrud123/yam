@@ -9,8 +9,10 @@ yam_pdf >> 요약본입니다.
 mealtest_01
 
 스케쥴링 작업
-parsing_task
+parsing_task / 
 notification_task 
 
 으로 구성되어 있으며
 서버는 우분투 리눅스를 이용하였습니다. 
+
+감사합니다.
