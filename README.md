@@ -12,13 +12,13 @@
 <h3>* Backend</h3>
 <h4>메인작업</h4>
 <ul>
-    <li>- JAVA(Mealtest_01)</li>
+    <li> JAVA(Mealtest_01)</li>
 </ul>
 
 <h4>스케쥴링 작업</h4>
 <ul>
-    <li>- parsing_task </li>
-    <li>- notification_task </li>
+    <li> parsing_task </li>
+    <li> notification_task </li>
 </ul>
 
 <h3>* DB</h3>
