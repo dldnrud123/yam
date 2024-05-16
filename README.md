@@ -2,8 +2,8 @@
 <h1>YAM</h1>
 <p>학생들에게 식단표를 공유해주는 어플리케이션입니다.</p>
 
-![test_video_gif](https://github.com/dldnrud123/yam/assets/49900271/2dd80c0f-4e44-49c1-8e5b-2f1f19f546c1)
-
+<img src="https://github.com/dldnrud123/yam/assets/49900271/8966fb83-9396-4f71-b995-459610824679" width=300px />
+<img src="https://github.com/dldnrud123/yam/assets/49900271/dc7df9d2-a656-499f-8bb5-adefbd79415e" width=300px />
 <hr>
 
 <h3>* Frontend</h3>
@@ -38,7 +38,7 @@
 <h3>- 식단알림기능</h3>
 <p>FCM(Firebase Cloud Messaging) 기능을 이용하여 학생들의 원하는 시간대의 식단의 알림을 on/off 할수 있도록 설정 하였습니다.</p>
 <img src="https://github.com/dldnrud123/yam/assets/49900271/118de1c5-b64e-4d94-943b-4a0e827c741b" width=300px />
-![fcm_push2](https://github.com/dldnrud123/yam/assets/49900271/9a72ff27-de3c-4d63-a42b-27d6c9d6878e)
+<img src="https://github.com/dldnrud123/yam/assets/49900271/9a72ff27-de3c-4d63-a42b-27d6c9d6878e" width=300px />
 <br>
 <h3>커뮤니케이션 기능</h3>
 <p>학생들이 하루 식단에대해 자유롭게 대화할 수 있도록 게시판 기능을 추가 했고, 조식/중식/석식 별로 볼수 있도록 정렬기능을 추가하였습니다.</p>
