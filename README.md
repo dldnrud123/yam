@@ -11,11 +11,15 @@
 
 <h3>* Backend</h3>
 <h4>메인작업</h4>
-    <p>- JAVA(Mealtest_01)</p>
+<ul>
+    <li>- JAVA(Mealtest_01)</li>
+</ul>
 
 <h4>스케쥴링 작업</h4>
-    <p>- parsing_task </p>
-    <p>- notification_task </p>
+<ul>
+    <li>- parsing_task </li>
+    <li>- notification_task </li>
+</ul>
 
 <h3>* DB</h3>
 <p>ORACLE 11g</p>
