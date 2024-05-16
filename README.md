@@ -10,14 +10,14 @@
 <p>Android Studio</p>
 <br>
 <h3>* Backend</h3>
-<h4>메인</h4>
+<h4>메인작업</h4>
 <p>- JAVA(Mealtest_01)</p>
 <br>
 <h4>스케쥴링 작업</h4>
 <p>- parsing_task </p>
 <p>- notification_task </p>
 <br>
-<h3><DB></h3>
+<h3>* DB</h3>
 <p>ORACLE 11g</p>
 <br>
 <h3><SERVER></h3>
