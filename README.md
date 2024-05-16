@@ -8,21 +8,21 @@
 
 <h3>* Frontend</h3>
 <p>Android Studio</p>
-<br>
+
 <h3>* Backend</h3>
 <h4>메인작업</h4>
 <p>- JAVA(Mealtest_01)</p>
-<br>
+
 <h4>스케쥴링 작업</h4>
 <p>- parsing_task </p>
 <p>- notification_task </p>
-<br>
+
 <h3>* DB</h3>
 <p>ORACLE 11g</p>
-<br>
+
 <h3>* SERVER</h3>
 <p>OS : UBUNTU</p>
-<br>
+
 <hr>
 <br>
 <h3>- 주요기능</h3>
