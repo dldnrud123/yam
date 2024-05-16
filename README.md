@@ -1,12 +1,15 @@
 
+<h1>YAM</h1>
+<p>학생들에게 식단표를 공유해주는 어플리케이션입니다.</p>
+
 ![test_video_gif](https://github.com/dldnrud123/yam/assets/49900271/2dd80c0f-4e44-49c1-8e5b-2f1f19f546c1)
 
 <hr>
 
-<FE>
-Android Studio 
+<h3><Frontend></h3>
+<p>Android Studio</p>
 
-<BE>
+<h3><Backend></h3>
 * 메인
 JAVA(Mealtest_01)
 
@@ -14,16 +17,14 @@ JAVA(Mealtest_01)
 - parsing_task
 - notification_task 
 
-<DB> 
+<h3><DB></h3>
 ORACLE 11g
   
-<SERVER> 
+<h3><SERVER></h3>
 OS : UBUNTU
 
 <hr>
 
-* YAM?
-학생들에게 식단표를 공유해주는 어플리케이션입니다.
 
 * 주요기능
 
@@ -31,10 +32,12 @@ OS : UBUNTU
 클라이언트에서 내용을 볼수 있도록 하였습니다.
 
 * 선호도기능
+  
 학생들이 하트를 눌러 선호도체크를 할수 있고, 선호하는 학생 수를 볼 수 있게 하였습니다.
 또 선호도를 통해 일정 선호도를 갱신할 경우 학생들이 추천메뉴 알림셋팅을 켜놓을 경우 추천메뉴 알림을 받을 수 있도록 하였습니다.
 
 * 식단알림기능
+  
 ![fcm_push1](https://github.com/dldnrud123/yam/assets/49900271/118de1c5-b64e-4d94-943b-4a0e827c741b)
 ![fcm_push2](https://github.com/dldnrud123/yam/assets/49900271/9a72ff27-de3c-4d63-a42b-27d6c9d6878e)
 
