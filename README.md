@@ -20,7 +20,7 @@
 <h3>* DB</h3>
 <p>ORACLE 11g</p>
 <br>
-<h3><SERVER></h3>
+<h3>* SERVER</h3>
 <p>OS : UBUNTU</p>
 <br>
 <hr>
