@@ -10,10 +10,10 @@
 <p>Android Studio</p>
 
 <h3>* Backend</h3>
-    <h4>메인작업</h4>
+<h4>메인작업</h4>
     <p>- JAVA(Mealtest_01)</p>
-    
-    <h4>스케쥴링 작업</h4>
+
+<h4>스케쥴링 작업</h4>
     <p>- parsing_task </p>
     <p>- notification_task </p>
 
