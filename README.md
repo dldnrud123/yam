@@ -37,7 +37,7 @@
 <br>
 <h3>- 식단알림기능</h3>
 <p>FCM(Firebase Cloud Messaging) 기능을 이용하여 학생들의 원하는 시간대의 식단의 알림을 on/off 할수 있도록 설정 하였습니다.</p>
-<img href = "https://github.com/dldnrud123/yam/assets/49900271/118de1c5-b64e-4d94-943b-4a0e827c741b" width = 300px />
+<img src="https://github.com/dldnrud123/yam/assets/49900271/118de1c5-b64e-4d94-943b-4a0e827c741b" width=300px />
 ![fcm_push2](https://github.com/dldnrud123/yam/assets/49900271/9a72ff27-de3c-4d63-a42b-27d6c9d6878e)
 <br>
 <h3>커뮤니케이션 기능</h3>
