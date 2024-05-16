@@ -12,7 +12,7 @@
 <h3>* Backend</h3>
 <h4>메인작업</h4>
 <ul>
-    <li> JAVA(Mealtest_01) MVC2</li>
+    <li> JAVA(Mealtest_01) MVC2 model</li>
 </ul>
 
 <h4>스케쥴링 작업</h4>
